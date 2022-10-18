@@ -1,0 +1,13 @@
+data/c5/JS00021.mat 4
+data/c5/JS00096.mat 5
+data/c5/JS00052.mat 1
+data/c5/JS00095.mat 3
+data/c5/JS00231.mat 1
+data/c5/JS00093.mat 3
+data/c5/JS00107.mat 5
+data/c5/JS00047.mat 4
+data/c5/JS00139.mat 3
+data/c5/JS00212.mat 3
+data/c5/JS00176.mat 0
+data/c5/JS00051.mat 4
+data/c5/JS00118.mat 3
